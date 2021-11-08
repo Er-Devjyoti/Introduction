@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Er-Devjyoti
+- 👋 Hi, I’m Devjyoti Das
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Projects
+- 💞️ I’m looking to collaborate on Data Projects on Github
 - 📫 Reach me via my email - er.devjyoti.das@gmail.com
 
 <!---

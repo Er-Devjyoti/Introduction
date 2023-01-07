@@ -1,10 +1,44 @@
-- 👋 Hi, I’m Devjyoti Das
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Projects on Github
-- 📫 Reach me via my email - er.devjyoti.das@gmail.com
+# 🎓Devjyoti Das
+<h3 align="left">ML/ MLOps Engineer | Post-graduate Student at University of Strathclyde | Ex-Infosicon </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=er-devjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="er-devjyoti" /> </p>
 
-<!---
-Er-Devjyoti/Er-Devjyoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello folks👋🏼! 
+
+My name is Devjyoti B Das (preferred name - Dev), I am an aspiring Machine Learning Engineer currently researching Deep Learning algorithms like Visual Captioning. I am also a Post-graduate (MSc) Student at the University of Strathclyde and currently looking to collaborate with other experts in this field to work on real-life projects.
+
+I grew up in Mumbai, India and in my early career I was fascinated by electronics and computer engineering, that said I started exploring electronic devices, microcontrollers, microprocessors and coding. Due to an immense interest in this field, I completed my Bachelor of Engineering (B.E.) in Electronics and Telecommunication. In my bachelor's I projected myself more towards network engineering and cloud infrastructure and ended up being a Technical Executive at one of the technology NMCs, 'Infosys' which provided me with relevant experience in the tech industry. While working on a GCP client project my interest soon gravitated towards Machine Learning, Deep Learning, Data Science and automation. 
+
+I feel businesses like OpenAI, Google AI, AWS Cloud AI and Deepmind are shaping our future with more human-adaptable and interactive technology for example chatGPT. In such an evolving market I strive to learn, educate and utilize my expertise to build and contribute to the evolving technology and business. I enjoy creative problem-solving in real-world challenges and discussing technical difficulties with my colleagues. In my free time, I would play chess and I absolutely love reading classic novels, my favourite - 'To kill a Mockingbird' and 'The Great Gatsby.' 
+
+Thank you for reading about me, this is all about me I would really like to know about you if you are reading this, please ping me on LinkedIn or reach me via email.
+
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.e03f9d05808c8a82ba822af3544ef8da?rik=ezA9FvyTkwKWfw&pid=ImgRaw&r=0">
+
+## Interest:
+
+- 🌱 I’m currently learning **MLOps, Computer Vision, and NLP**
+
+- 💬 Ask me about **Machine Learning Algorithm, Explainable AI, and Deep Learning**
+
+- 📫 How to reach me **er.devjyoti.das@gmail.com**
+
+- 🤹🏻‍♀️ Looking forward to collaborating with AI Enthusiasts for Kaggle, GroupStudy and LabLabAi Competition
+
+## Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/devjyoti_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjyoti_d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devjyoti-das-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjyoti-das-profile" height="30" width="40" /></a>
+<a href="https://kaggle.com/devjyotibdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devjyotibdas" height="30" width="40" /></a>
+</p>
+
+## Languages and Tools:
+
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+## Devjyoti's GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-devjyoti&show_icons=true&locale=en&layout=compact" alt="er-devjyoti" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-devjyoti&show_icons=true&locale=en" alt="er-devjyoti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-devjyoti&" alt="er-devjyoti" /></p>

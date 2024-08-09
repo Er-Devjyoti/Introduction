@@ -1,5 +1,5 @@
 # 🎓Devjyoti Das
-<h3 align="left">ML/ MLOps Engineer | Post-graduate Student at University of Strathclyde | Ex-Infosicon </h3>
+<h3 align="left">Computer Vision Researcher @UoS - AMD | ML/ MLOps Engineer | Ex-Infosicon </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-devjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="er-devjyoti" /> </p>
 
 Hello folks👋🏼! 

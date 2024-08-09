@@ -1,5 +1,11 @@
+/* Importing the San Francisco font */
+@font-face {
+    font-family: 'San Francisco';
+    src: local('San Francisco'), local('SF Pro Display'), local('SF Pro Text');
+}
+
 /* Basic Reset */
-body, h1, h2, h3, p, ul {
+body, h1, h2, p, ul {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,7 +13,7 @@ body, h1, h2, h3, p, ul {
 
 /* Body and Container */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'San Francisco', Arial, sans-serif;
     line-height: 1.6;
     color: #333;
     background-color: #f5f5f5;
@@ -20,15 +26,16 @@ body {
 
 /* Header */
 header {
-    background: #2c3e50;
-    color: #ecf0f1;
+    background: #ffffff; /* Light background for the header */
+    color: #333;
     padding: 20px 0;
-    border-bottom: 1px solid #34495e;
+    border-bottom: 1px solid #ddd; /* Light border for separation */
 }
 
 header h1 {
     float: left;
     margin: 0;
+    font-size: 24px;
 }
 
 nav ul {
@@ -42,8 +49,9 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #ecf0f1;
+    color: #333;
     text-decoration: none;
+    font-size: 16px;
 }
 
 nav ul li a:hover {
@@ -59,18 +67,14 @@ nav ul li a:hover {
 
 .section h2 {
     margin-bottom: 20px;
-    color: #2c3e50;
-}
-
-.project {
-    margin-bottom: 20px;
+    color: #333;
 }
 
 /* Footer */
 footer {
-    background: #2c3e50;
-    color: #ecf0f1;
+    background: #f5f5f5;
+    color: #333;
     text-align: center;
     padding: 20px;
-    border-top: 1px solid #34495e;
+    border-top: 1px solid #ddd;
 }
